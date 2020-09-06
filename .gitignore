@@ -1,0 +1,13 @@
+.project
+.settings
+.classpath
+api/target
+api-1.10/target
+omod/target
+test/target
+.idea
+*iml
+.DS_Store
+
+target/checkout/
+/target
